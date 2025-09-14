@@ -1,2 +1,9 @@
-# Data-Science-Journey
-Welcome to my personal journey in mastering Data Science! I made this repository with Grok 4. The syllabus in this repository is inspired by top Bachelor's-level program (Stanford, UC Berkeley, Northeastern). I'll document all the steps I took. Each course has a dedicated folder with Jupyter notebooks, datasets, and progress trackers.
+# Data Science Journey
+
+My self-study path to becoming a Data Scientist. Follow along!
+
+## Quick Start
+- [Syllabus](SYLLABUS.md)
+- [Progress Tracker](https://github.com/Ze-Fn/Data-Science-Journey/projects/1) (Create a GitHub Project board)
+
+![Progress](https://img.shields.io/badge/Progress-0%25-brightgreen)
