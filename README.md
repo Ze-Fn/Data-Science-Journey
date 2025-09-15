@@ -6,4 +6,9 @@ My self-study path to becoming a Data Scientist. Follow along!
 - [Syllabus](SYLLABUS.md)
 - [Progress Tracker](https://github.com/Ze-Fn/Data-Science-Journey/projects/1) (Create a GitHub Project board)
 
+## Progress
+- [x] Set up folder structure
+- [ ] Start Calculus I project
+![Progress](https://progress-bar.dev/10)
+
 ![Progress](https://img.shields.io/badge/Progress-0%25-brightgreen)
